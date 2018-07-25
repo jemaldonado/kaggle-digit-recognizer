@@ -1,2 +1,3 @@
 # kaggle-digit-recognizer
-Competição Kaggle para exercitar Machine Learning
+Kaggle Score 0.93514
+Simple SVM

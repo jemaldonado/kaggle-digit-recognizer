@@ -1,3 +1,2 @@
 # kaggle-digit-recognizer
-Kaggle Score 0.93514
-Simple SVM
+Kaggle Score 0.93514 - SVM
